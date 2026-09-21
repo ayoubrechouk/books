@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import logo from '../assets/logo.jpg'
+import logo from '../assets/logo.jpeg'
 import './Navbar.css'
 
 const LINKS = [
