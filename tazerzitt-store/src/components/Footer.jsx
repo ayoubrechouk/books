@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import logo from '../assets/logo.jpg'
+import logo from '../assets/logo-tazerzitt.jpg'
 import './Footer.css'
 
 const COLUMNS = [
