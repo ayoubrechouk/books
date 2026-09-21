@@ -1,0 +1,180 @@
+{
+  "books": [
+    {
+      "name": "The art of not giving a ****",
+      "writer": "Mark Manson",
+      "publisher": "Harper",
+      "year": 2016,
+      "pages": 224,
+      "language": "English"
+    },
+    {
+      "name": "The White Nights",
+      "writer": "Fyodor Dostoevsky",
+      "publisher": "Penguin Classics",
+      "year": 1848,
+      "pages": 96,
+      "language": "English"
+    },
+    {
+      "name": "1984",
+      "writer": "George Orwell",
+      "publisher": "Secker & Warburg",
+      "year": 1949,
+      "pages": 328,
+      "language": "English"
+    },
+    {
+      "name": "Atomic Habits",
+      "writer": "James Clear",
+      "publisher": "Avery",
+      "year": 2018,
+      "pages": 320,
+      "language": "English"
+    },
+    {
+      "name": "To Kill a Mockingbird",
+      "writer": "Harper Lee",
+      "publisher": "J. B. Lippincott & Co.",
+      "year": 1960,
+      "pages": 281,
+      "language": "English"
+    },
+    {
+      "name": "Sapiens: A Brief History of Humankind",
+      "writer": "Yuval Noah Harari",
+      "publisher": "Harvill Secker",
+      "year": 2014,
+      "pages": 443,
+      "language": "English"
+    },
+    {
+      "name": "The Great Gatsby",
+      "writer": "F. Scott Fitzgerald",
+      "publisher": "Charles Scribner's Sons",
+      "year": 1925,
+      "pages": 218,
+      "language": "English"
+    },
+    {
+      "name": "Dune",
+      "writer": "Frank Herbert",
+      "publisher": "Chilton Books",
+      "year": 1965,
+      "pages": 412,
+      "language": "English"
+    },
+    {
+      "name": "The Alchemist",
+      "writer": "Paulo Coelho",
+      "publisher": "HarperTorch",
+      "year": 1988,
+      "pages": 163,
+      "language": "English"
+    },
+    {
+      "name": "Crime and Punishment",
+      "writer": "Fyodor Dostoevsky",
+      "publisher": "The Russian Messenger",
+      "year": 1866,
+      "pages": 430,
+      "language": "English"
+    },
+    {
+      "name": "Meditations",
+      "writer": "Marcus Aurelius",
+      "publisher": "Penguin Classics",
+      "year": 167,
+      "pages": 254,
+      "language": "English"
+    },
+    {
+      "name": "Thinking, Fast and Slow",
+      "writer": "Daniel Kahneman",
+      "publisher": "Farrar, Straus and Giroux",
+      "year": 2011,
+      "pages": 499,
+      "language": "English"
+    },
+    {
+      "name": "The Catcher in the Rye",
+      "writer": "J.D. Salinger",
+      "publisher": "Little, Brown and Company",
+      "year": 1951,
+      "pages": 234,
+      "language": "English"
+    },
+    {
+      "name": "Deep Work",
+      "writer": "Cal Newport",
+      "publisher": "Grand Central Publishing",
+      "year": 2016,
+      "pages": 296,
+      "language": "English"
+    },
+    {
+      "name": "Clean Code",
+      "writer": "Robert C. Martin",
+      "publisher": "Prentice Hall",
+      "year": 2008,
+      "pages": 464,
+      "language": "English"
+    },
+    {
+      "name": "The Hobbit",
+      "writer": "J.R.R. Tolkien",
+      "publisher": "George Allen & Unwin",
+      "year": 1937,
+      "pages": 310,
+      "language": "English"
+    },
+    {
+      "name": "Fahrenheit 451",
+      "writer": "Ray Bradbury",
+      "publisher": "Ballantine Books",
+      "year": 1953,
+      "pages": 158,
+      "language": "English"
+    },
+    {
+      "name": "Man's Search for Meaning",
+      "writer": "Viktor E. Frankl",
+      "publisher": "Beacon Press",
+      "year": 1946,
+      "pages": 165,
+      "language": "English"
+    },
+    {
+      "name": "The Pragmatic Programmer",
+      "writer": "Andrew Hunt",
+      "publisher": "Addison-Wesley",
+      "year": 1999,
+      "pages": 352,
+      "language": "English"
+    },
+    {
+      "name": "Pride and Prejudice",
+      "writer": "Jane Austen",
+      "publisher": "T. Egerton",
+      "year": 1813,
+      "pages": 279,
+      "language": "English"
+    },
+    {
+      "name": "Brave New World",
+      "writer": "Aldous Huxley",
+      "publisher": "Chatto & Windus",
+      "year": 1932,
+      "pages": 268,
+      "language": "English"
+    },
+    {
+      "name": "Rich Dad Poor Dad",
+      "writer": "Robert T. Kiyosaki",
+      "publisher": "Warner Books",
+      "year": 1997,
+      "pages": 336,
+      "language": "English"
+    }
+  ]
+}
