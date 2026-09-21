@@ -1,8 +1,8 @@
 import { useRef } from 'react'
 import { motion, useScroll, useTransform } from 'framer-motion'
-import chokerEnamel from '../assets/choker-enamel.jpg'
-import coralNecklace from '../assets/coral-necklace.jpg'
-import kaftanSaffron from '../assets/kaftan-saffron.jpg'
+const chokerEnamel = ""
+const coralNecklace = ""
+const kaftanSaffron = ""
 import './Hero.css'
 
 const EASE = [0.16, 1, 0.3, 1]
